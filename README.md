@@ -4,6 +4,6 @@ Tech Stacks:- Nodejs, Express
 Package:- npm
 
 #Frontend
-Deployed :- https://chatbot-frontend-theta.vercel.app/
+Deployed :- https://chatbotopenai123.netlify.app/
 Tech Stacks:- Nodejs, Express
 Package:- npm
