@@ -1,6 +1,7 @@
 #Backend Deployed: 
 - https://chatbot-lzns.onrender.com 
-- Tech Stacks: Node.js, Express 
+- Tech Stacks: Node.js, Express
+- Integration: OpenAI
 - Package: npm
 
 #Frontend Deployed: 
